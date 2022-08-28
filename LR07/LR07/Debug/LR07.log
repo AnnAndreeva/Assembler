@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  LR07.cpp
+c:\users\professional\desktop\учёба\эвм\lr07\lr07\lr07.cpp(7): warning C4101: status: неиспользованная локальная переменная
+  LR07.vcxproj -> C:\Users\Professional\Desktop\Учёба\ЭВМ\LR07\Debug\LR07.exe
